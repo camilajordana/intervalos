@@ -15,7 +15,7 @@ Problema: http://dojopuzzles.com/problemas/exibe/intervalos/
 | Variáveis de Entrada | Condições | Classes Válidas | Classes Inválidas | Nº
 | --- | --- | --- | --- | --- |
 | lista[] (int) | Tamanho da lista tem que ser maior que 0 | lista.size > 0 | lista.size = 0 | 2 |
-
+| lista[] (int) |  |  | lista.size = 0 | 2 |
 
 ### Casos de teste
 | Classes | Entrada | Saída esperada | 
