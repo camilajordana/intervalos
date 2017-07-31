@@ -14,7 +14,7 @@ Problema: http://dojopuzzles.com/problemas/exibe/intervalos/
 ### Classes de equivalência
 | Variáveis de Entrada | Condições | Classes Válidas | Classes Inválidas | Nº
 | --- | --- | --- | --- | --- |
-| lista[] (int) | Tamanho da lista tem que ser maior que 0 | tam_lista > 0 | lista.size = 0 | 1 |
+| lista[] (int) | Tamanho da lista tem que ser maior que 0 | lista.size > 0 | lista.size = 0 | 1 |
 
 
 ### Casos de teste
