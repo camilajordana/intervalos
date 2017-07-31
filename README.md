@@ -20,6 +20,6 @@ Problema: http://dojopuzzles.com/problemas/exibe/intervalos/
 ### Casos de teste
 | Classes | Entrada | Saída esperada | 
 | --- | --- | --- | 
-| 1 | [1,2,3,6,7,8,9,22] | [1,2,3], [6,7,8,9], [22] |
+| 1 | [1,2,3,6,7,8,9,22] | [[1,2,3], [6,7,8,9], [22]] |
 | 2 | [] | [] |
 
