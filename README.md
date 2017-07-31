@@ -21,3 +21,5 @@ Problema: http://dojopuzzles.com/problemas/exibe/intervalos/
 | Classes | Entrada | Saída esperada | 
 | --- | --- | --- | 
 | Classe válida | [1, 2, 3, 4, 5, 6] | true |
+| 1 | [] | false |
+
